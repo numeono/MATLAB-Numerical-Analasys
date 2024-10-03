@@ -1,5 +1,5 @@
 % Evaluates approximations of cos(0.6) using a 5th-degree Taylor polynomial
-% around \( \pi/6 \) in both standard and Horner's form.
+% around pi/6 in both standard and Horner's form.
 
 % Approximation to cos(0.6)
 m = 0.6-pi/6;
