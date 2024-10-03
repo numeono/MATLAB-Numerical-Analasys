@@ -1,4 +1,4 @@
-% Define the value of pi/6
+% Define the value of pi/6 
 x = pi / 6;
 
 % Pre-allocate an array to store the results
