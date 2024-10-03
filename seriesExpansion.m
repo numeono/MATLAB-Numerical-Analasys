@@ -1,5 +1,5 @@
 % Computes and displays terms of a series
-% expansion for \( n = 0 \) to 19 with a given \( x \).
+% expansion for n = 0 to 19 with a given x
 
 % Define the value of pi/6 
 x = pi / 6;
