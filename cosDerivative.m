@@ -1,5 +1,5 @@
 % Computes numerical derivative approximations of cos(x) and
-% identifies minimal errors for further analysis.
+% identifies minimal errors for further analysis. 
 
 % initialize variables
 x = pi/4;
